@@ -49,7 +49,7 @@ pip install transformers torch pandas scikit-learn gradio datasets
 
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/InspectorGoole/Customer-Ticket-Classification.git>
 cd customer-support-classification
 ```
 
@@ -145,9 +145,6 @@ Contributions are welcome! Areas for improvement:
 - Adding multi-label classification support
 - Creating a REST API wrapper
 
-## 📝 License
-
-[MIT License]
 
 ## 👥 Authors
 
